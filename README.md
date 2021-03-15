@@ -1,5 +1,6 @@
 # Minimalistic To Do Application 
-![image](https://user-images.githubusercontent.com/42486737/111227897-4f685f80-8609-11eb-9a21-26cd1feeaacd.png)
+![image](https://user-images.githubusercontent.com/42486737/111228954-17fab280-860b-11eb-8767-bcd0392fcd39.png)
+
 
 ## Technology 
 - GTK4 
